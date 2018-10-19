@@ -1,0 +1,7 @@
+User1s-MacBook-Pro:hw3 main$ ./driver testNo.html 
+
+NO, the tag </title> and <b> violates the proper nesting!
+<title>
+<div>
+User1s-MacBook-Pro:hw3 main$ ./driver testYes.html
+ YES, all the tags are nested correctly
